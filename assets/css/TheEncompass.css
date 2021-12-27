@@ -1,0 +1,486 @@
+@media only screen and (min-width:1440px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        display: flex;
+        align-items: start;
+        padding: 100px 19.58%;
+    }
+    .titleCanvas {
+        display: flex;
+        justify-content: start;
+        width: 50%;
+    }
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 29px;
+    }
+    .Line-4 {
+        width: 186px;
+        height: 2px;
+        /* margin: 0px 197.5px 2px 379.5px; */
+        background-color: #e03116;
+    }
+    .title .The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+        width: 74.28%;
+        /* margin: 29px 85.5px 134px 376.5px; */
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.29px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .content {
+        display: flex;
+        width: 50%;
+        gap: 15.1%;
+    }
+    .columnContent1 .block1,
+    .columnContent1 .block2,
+    .columnContent2 .block1,
+    .columnContent2 .block2 {
+        margin: 0 0 40px 0;
+        display: flex;
+        flex-direction: column;
+        gap: 7px;
+        /* margin-bottom: 40px;
+        margin-left: 88px; */
+    }
+    .Drive-Business-Growth {
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Tap-into-the-power-of-predictive-analytics-and-demand-forecasting-Capitalize-on-revenue-generating {
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Improve-Operational-Efficiencies {
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Streamline-processes-and-save-money-by-reducing-leakage-with-a-fully-integrated-ERP-system-that-work {
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Leverage-Real-Time-Data-for-Better-Decision-Making {
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Accelerate-business-decisions-with-better-more-accurate-system-to-system-data-and-comprehensive-rep {
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Enhance-Team-Dynamics-Employee {
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .When-your-labor-force-has-the-tools-they-need-to-succeed-the-workplace-runs-like-a-well-oiled-machi {
+        /* margin: 7px 0 0 2px; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1440px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        padding: 100px 101px;
+        gap: 51px;
+    }
+    .titleCanvas {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 29px;
+    }
+    .Line-4 {
+        width: 186px;
+        height: 2px;
+        /* margin: 0px 197.5px 2px 379.5px; */
+        background-color: #e03116;
+    }
+    .title .The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+        width: 821px;
+        height: 106px;
+        /* margin: 29px 102px 51.9px 101px; */
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.29px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .content {
+        display: flex;
+        width: 100%;
+        gap: 3.5625rem;
+    }
+    .columnContent1,
+    .columnContent2 {
+        width: 50%;
+    }
+    .columnContent1 .block1,
+    .columnContent1 .block2,
+    .columnContent2 .block1,
+    .columnContent2 .block2 {
+        margin: 0 0 40px 0;
+        display: flex;
+        flex-direction: column;
+        gap: 7px;
+    }
+    .Drive-Business-Growth {
+        width: 100%;
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Tap-into-the-power-of-predictive-analytics-and-demand-forecasting-Capitalize-on-revenue-generating {
+        width: 100%;
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Improve-Operational-Efficiencies {
+        width: 100%;
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Streamline-processes-and-save-money-by-reducing-leakage-with-a-fully-integrated-ERP-system-that-work {
+        width: 100%;
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Leverage-Real-Time-Data-for-Better-Decision-Making {
+        width: 100%;
+        /* margin: 0 0 228px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Accelerate-business-decisions-with-better-more-accurate-system-to-system-data-and-comprehensive-rep {
+        width: 100%;
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Enhance-Team-Dynamics-Employee {
+        width: 100%;
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .When-your-labor-force-has-the-tools-they-need-to-succeed-the-workplace-runs-like-a-well-oiled-machi {
+        width: 100%;
+        /* margin: 7px 0 0 2px; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+}
+
+@media (max-width:1024px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        padding: 100px 126px;
+        gap: 64px;
+    }
+    .titleCanvas {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 29px;
+    }
+    .Line-4 {
+        width: 186px;
+        height: 2px;
+        /* margin: 0px 197.5px 2px 379.5px; */
+        background-color: #e03116;
+    }
+    .title .The-Encompass-Platform-Seamlessly-Connects-the-Supply-Chain-Allowing-You-to {
+        width: 100%;
+        /* margin: 29px 102px 51.9px 101px; */
+        font-family: Poppins;
+        font-size: 36px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.29px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .content {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .columnContent1,
+    .columnContent2 {
+        width: 100%;
+    }
+    .columnContent1 .block1,
+    .columnContent1 .block2,
+    .columnContent2 .block1,
+    .columnContent2 .block2 {
+        margin: 0 0 40px 0;
+        display: flex;
+        flex-direction: column;
+        gap: 7px;
+    }
+    .Drive-Business-Growth {
+        width: 100%;
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Tap-into-the-power-of-predictive-analytics-and-demand-forecasting-Capitalize-on-revenue-generating {
+        width: 100%;
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Improve-Operational-Efficiencies {
+        width: 100%;
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Streamline-processes-and-save-money-by-reducing-leakage-with-a-fully-integrated-ERP-system-that-work {
+        width: 100%;
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Leverage-Real-Time-Data-for-Better-Decision-Making {
+        width: 100%;
+        /* margin: 0 0 228px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .Accelerate-business-decisions-with-better-more-accurate-system-to-system-data-and-comprehensive-rep {
+        width: 100%;
+        /* margin: 7px 0 0; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+    .Enhance-Team-Dynamics-Employee {
+        width: 100%;
+        /* margin: 0 0 7px; */
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -0.19px;
+        text-align: left;
+        color: #1f2c40;
+    }
+    .When-your-labor-force-has-the-tools-they-need-to-succeed-the-workplace-runs-like-a-well-oiled-machi {
+        width: 100%;
+        /* margin: 7px 0 0 2px; */
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: -0.14px;
+        text-align: left;
+        color: var(--brownish-grey);
+    }
+}
